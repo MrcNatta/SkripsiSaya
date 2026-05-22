@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 540279482644ea942b5cc87110cd7ee9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorAudioClip: {fileID: 8300000, guid: adbe2f479de3c1c48abfc2a0d8bd58cf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

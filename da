@@ -1,0 +1,1542 @@
+.erp
+.gitignore
+Assets/3D.meta
+Assets/3D/Envi 1.fbx
+Assets/3D/Envi 1.fbx.meta
+Assets/3D/Envi 2 Lantai 2.fbx
+Assets/3D/Envi 2 Lantai 2.fbx.meta
+Assets/3D/Envi 2 v1.fbx
+Assets/3D/Envi 2 v1.fbx.meta
+Assets/3D/Envi 2 v2.fbx
+Assets/3D/Envi 2 v2.fbx.meta
+Assets/3D/Envi 2 v3.fbx
+Assets/3D/Envi 2 v3.fbx.meta
+Assets/3D/Envi 2.fbx
+Assets/3D/Envi 2.fbx.meta
+Assets/3D/Envi 2update.fbx
+Assets/3D/Envi 2update.fbx.meta
+Assets/3D/Envi alpha.fbx
+Assets/3D/Envi alpha.fbx.meta
+Assets/3D/Jendela.fbx
+Assets/3D/Jendela.fbx.meta
+Assets/3D/Lantai 2 lantai.fbx
+Assets/3D/Lantai 2 lantai.fbx.meta
+Assets/3D/Level 1.1.fbx
+Assets/3D/Level 1.1.fbx.meta
+Assets/3D/MAIN CHAR RIGGED .fbx
+Assets/3D/MAIN CHAR RIGGED .fbx.meta
+Assets/3D/T-Pose (9).fbx
+Assets/3D/T-Pose (9).fbx.meta
+Assets/3D/T-Pose (9)Avatar.asset
+Assets/3D/T-Pose (9)Avatar.asset.meta
+Assets/3D/Tangga atas.fbx
+Assets/3D/Tangga atas.fbx.meta
+Assets/3D/Tangga batas.fbx
+Assets/3D/Tangga batas.fbx.meta
+Assets/3D/Tembok.fbx
+Assets/3D/Tembok.fbx.meta
+Assets/3D/door 1.fbx
+Assets/3D/door 1.fbx.meta
+Assets/3D/door.fbx
+Assets/3D/door.fbx.meta
+Assets/3D/jalan raya.fbx
+Assets/3D/jalan raya.fbx.meta
+Assets/3D/lante lt 2.fbx
+Assets/3D/lante lt 2.fbx.meta
+Assets/3D/pintu.fbx
+Assets/3D/pintu.fbx.meta
+Assets/3D/rumah kiri .fbx
+Assets/3D/rumah kiri .fbx.meta
+Assets/3D/tombolgarasi.fbx
+Assets/3D/tombolgarasi.fbx.meta
+Assets/Animation.meta
+Assets/Animation/main char 3@Crouched Walking.fbx
+Assets/Animation/main char 3@Crouched Walking.fbx.meta
+Assets/Animation/main char 3@Male Crouch Pose.fbx
+Assets/Animation/main char 3@Male Crouch Pose.fbx.meta
+Assets/ERP.meta
+Assets/ERP/CHANGELOG.MD
+Assets/ERP/CHANGELOG.MD.meta
+Assets/ERP/Documentation.meta
+Assets/ERP/Documentation/Editor Rich Presence Documentation.pdf
+Assets/ERP/Documentation/Editor Rich Presence Documentation.pdf.meta
+Assets/ERP/Editor.meta
+Assets/ERP/Editor/ERP.cs
+Assets/ERP/Editor/ERP.cs.meta
+Assets/ERP/Editor/ERPSettings.cs
+Assets/ERP/Editor/ERPSettings.cs.meta
+Assets/ERP/Editor/ERPWindow.cs
+Assets/ERP/Editor/ERPWindow.cs.meta
+Assets/ERP/Editor/Plugins.meta
+Assets/ERP/Editor/Plugins/DiscordSDK.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/ActivityManager.cs
+Assets/ERP/Editor/Plugins/DiscordSDK/ActivityManager.cs.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/Constants.cs
+Assets/ERP/Editor/Plugins/DiscordSDK/Constants.cs.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/Core.cs
+Assets/ERP/Editor/Plugins/DiscordSDK/Core.cs.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/ImageManager.cs
+Assets/ERP/Editor/Plugins/DiscordSDK/ImageManager.cs.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/LobbyManager.cs
+Assets/ERP/Editor/Plugins/DiscordSDK/LobbyManager.cs.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/StorageManager.cs
+Assets/ERP/Editor/Plugins/DiscordSDK/StorageManager.cs.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/StoreManager.cs
+Assets/ERP/Editor/Plugins/DiscordSDK/StoreManager.cs.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/x86.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/x86/discord_game_sdk.dll
+Assets/ERP/Editor/Plugins/DiscordSDK/x86/discord_game_sdk.dll.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/x86_64.meta
+Assets/ERP/Editor/Plugins/DiscordSDK/x86_64/discord_game_sdk.dll
+Assets/ERP/Editor/Plugins/DiscordSDK/x86_64/discord_game_sdk.dll.meta
+Assets/ERP/Editor/Scenes.meta
+Assets/ERP/Editor/Scenes/ERP Example Scene.unity
+Assets/ERP/Editor/Scenes/ERP Example Scene.unity.meta
+Assets/ERP/Editor/com.ben-w.erp.asmdef
+Assets/ERP/Editor/com.ben-w.erp.asmdef.meta
+Assets/ERP/LICENSE.md
+Assets/ERP/LICENSE.md.meta
+Assets/ERP/README.md
+Assets/ERP/README.md.meta
+Assets/ERP/package.json
+Assets/ERP/package.json.meta
+Assets/GabrielAguiarProductions.meta
+Assets/GabrielAguiarProductions/Documentation - Free Quick Effects.pdf
+Assets/GabrielAguiarProductions/Documentation - Free Quick Effects.pdf.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Circle01_AB.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Circle01_AB.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Circle01_AB_2.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Circle01_AB_2.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/DistortedFlare01_AB.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/DistortedFlare01_AB.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/DistortedFlare01_AB_2.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/DistortedFlare01_AB_2.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flame02_AB.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flame02_AB.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flame02_AB_2.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flame02_AB_2.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flare00_AB.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flare00_AB.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flare00_AB_2.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Flare00_AB_2.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Scene.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Scene/Ground.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Scene/Ground.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Scene/Sky.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Scene/Sky.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Swirl01_AB.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Swirl01_AB.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Swirl01_AB_2.mat
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Materials/Swirl01_AB_2.mat.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Models.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Models/Mountains01.fbx
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Models/Mountains01.fbx.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Electricity_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Electricity_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Explosion_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Explosion_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Explosion_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Explosion_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Flames_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Flames_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Flamethrower_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Flamethrower_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Flamethrower_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Flamethrower_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Heal_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Heal_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Heal_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Heal_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Hyperdrive_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Hyperdrive_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Impact_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Impact_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Implosion_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Implosion_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Lightning_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Lightning_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Lightning_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Lightning_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_LootDrop_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_LootDrop_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_LootDrop_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_LootDrop_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MeteorRain_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MeteorRain_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MeteorRain_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MeteorRain_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MuzzleFlash_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MuzzleFlash_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MuzzleFlash_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_MuzzleFlash_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Portal_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Portal_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Portal_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Portal_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Projectile_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Projectile_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Projectile_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Projectile_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Rain_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Rain_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Rain_02.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Rain_02.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Shield_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Shield_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Shockwave_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Shockwave_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Smoke_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Smoke_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Sparks_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Sparks_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Tornado_01.prefab
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Prefabs/vfx_Tornado_01.prefab.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Scenes.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Scenes/FreeQuickEffectsVol1.unity
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Scenes/FreeQuickEffectsVol1.unity.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Circle01_v1.png
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Circle01_v1.png.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/DistortedFlare01.png
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/DistortedFlare01.png.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Flame02.png
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Flame02.png.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Flare00.PNG
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Flare00.PNG.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Swirl01.png
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1/Textures/Swirl01.png.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1_2022_BIRP_v1.0.unitypackage
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1_2022_BIRP_v1.0.unitypackage.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1_2022_HDRP_v1.0.unitypackage
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1_2022_HDRP_v1.0.unitypackage.meta
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1_2022_URP_v1.0.unitypackage
+Assets/GabrielAguiarProductions/FreeQuickEffectsVol1_2022_URP_v1.0.unitypackage.meta
+Assets/Grass And Flowers Pack 1.meta
+Assets/Grass And Flowers Pack 1/Bush.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 1.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 1.png.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 2.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 2.png.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 3.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 3.png.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 4.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 4.png.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 5.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 5.png.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 6.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 6.png.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 7.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 7.png.meta
+Assets/Grass And Flowers Pack 1/Bush/Bush 8.png
+Assets/Grass And Flowers Pack 1/Bush/Bush 8.png.meta
+Assets/Grass And Flowers Pack 1/Example Scene.meta
+Assets/Grass And Flowers Pack 1/Example Scene/BlackMat.mat
+Assets/Grass And Flowers Pack 1/Example Scene/BlackMat.mat.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Camera 1.renderTexture
+Assets/Grass And Flowers Pack 1/Example Scene/Camera 1.renderTexture.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Camera 2.renderTexture
+Assets/Grass And Flowers Pack 1/Example Scene/Camera 2.renderTexture.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Example Scene.unity
+Assets/Grass And Flowers Pack 1/Example Scene/Example Scene.unity.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Example SceneSettings.lighting
+Assets/Grass And Flowers Pack 1/Example Scene/Example SceneSettings.lighting.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Gray.png
+Assets/Grass And Flowers Pack 1/Example Scene/Gray.png.meta
+Assets/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs
+Assets/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Sunny1 Skybox.mat
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Sunny1 Skybox.mat.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_back.tif
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_back.tif.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_down.tif
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_down.tif.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_front.tif
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_front.tif.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_left.tif
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_left.tif.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_right.tif
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_right.tif.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_up.tif
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Textures/Sunny1/Sunny1_up.tif.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/_skybox info.txt
+Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/_skybox info.txt.meta
+Assets/Grass And Flowers Pack 1/Example Scene/Terrain Data.asset
+Assets/Grass And Flowers Pack 1/Example Scene/Terrain Data.asset.meta
+Assets/Grass And Flowers Pack 1/Example Scene/TerrainBumpedMaterial.mat
+Assets/Grass And Flowers Pack 1/Example Scene/TerrainBumpedMaterial.mat.meta
+Assets/Grass And Flowers Pack 1/Example Scene/UnlitMaterial 1.mat
+Assets/Grass And Flowers Pack 1/Example Scene/UnlitMaterial 1.mat.meta
+Assets/Grass And Flowers Pack 1/Example Scene/UnlitMaterial.mat
+Assets/Grass And Flowers Pack 1/Example Scene/UnlitMaterial.mat.meta
+Assets/Grass And Flowers Pack 1/Flower.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 1.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 1.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 10.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 10.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 11.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 11.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 12.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 12.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 13.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 13.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 14.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 14.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 15.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 15.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 16.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 16.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 17.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 17.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 18.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 18.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 19.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 19.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 2.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 2.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 20.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 20.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 21.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 21.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 22.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 22.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 23.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 23.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 24.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 24.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 25.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 25.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 26.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 26.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 27.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 27.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 28.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 28.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 29.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 29.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 3.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 3.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 30.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 30.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 31.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 31.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 32.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 32.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 33.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 33.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 34.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 34.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 35.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 35.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 36.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 36.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 4.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 4.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 5.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 5.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 6.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 6.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 7.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 7.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 8.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 8.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Flower 9.png
+Assets/Grass And Flowers Pack 1/Flower/Flower 9.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 1.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 1.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 10.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 10.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 11.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 11.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 2.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 2.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 3.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 3.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 4.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 4.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 5.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 5.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 6.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 6.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 7.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 7.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 8.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 8.png.meta
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 9.png
+Assets/Grass And Flowers Pack 1/Flower/Grass Flower 9.png.meta
+Assets/Grass And Flowers Pack 1/Grass.meta
+Assets/Grass And Flowers Pack 1/Grass/Grass 1.png
+Assets/Grass And Flowers Pack 1/Grass/Grass 1.png.meta
+Assets/Grass And Flowers Pack 1/Grass/Grass 2.png
+Assets/Grass And Flowers Pack 1/Grass/Grass 2.png.meta
+Assets/Grass And Flowers Pack 1/Grass/Grass 3.png
+Assets/Grass And Flowers Pack 1/Grass/Grass 3.png.meta
+Assets/Grass And Flowers Pack 1/Grass/Grass 4.png
+Assets/Grass And Flowers Pack 1/Grass/Grass 4.png.meta
+Assets/Grass And Flowers Pack 1/Ground Textures.meta
+Assets/Grass And Flowers Pack 1/Ground Textures/Groundplants 1_D.jpg
+Assets/Grass And Flowers Pack 1/Ground Textures/Groundplants 1_D.jpg.meta
+Assets/Grass And Flowers Pack 1/Ground Textures/Groundplants 1_N.jpg
+Assets/Grass And Flowers Pack 1/Ground Textures/Groundplants 1_N.jpg.meta
+Assets/Grass And Flowers Pack 1/Ground Textures/RockSharp 1_D.png
+Assets/Grass And Flowers Pack 1/Ground Textures/RockSharp 1_D.png.meta
+Assets/Grass And Flowers Pack 1/Ground Textures/RockSharp 1_N.png
+Assets/Grass And Flowers Pack 1/Ground Textures/RockSharp 1_N.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 1.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 1.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 10.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 10.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 11.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 11.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 2.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 2.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 3.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 3.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 4.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 4.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 5.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 5.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 6.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 6.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 7.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 7.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 8.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 8.png.meta
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 9.png
+Assets/Grass And Flowers Pack 1/Small Tree/Small Tree 9.png.meta
+Assets/Materials.meta
+Assets/Materials/11713-v3.mat
+Assets/Materials/11713-v3.mat.meta
+Assets/Materials/11713-v4.mat
+Assets/Materials/11713-v4.mat.meta
+Assets/Materials/kayu.001.mat
+Assets/Materials/kayu.001.mat.meta
+Assets/Materials/kayu.mat
+Assets/Materials/kayu.mat.meta
+Assets/NatureStarterKit.meta
+Assets/NatureStarterKit/Animations.meta
+Assets/NatureStarterKit/Animations/Point light (5).controller
+Assets/NatureStarterKit/Animations/Point light (5).controller.meta
+Assets/NatureStarterKit/Animations/Point light (6).controller
+Assets/NatureStarterKit/Animations/Point light (6).controller.meta
+Assets/NatureStarterKit/Animations/camanim.anim
+Assets/NatureStarterKit/Animations/camanim.anim.meta
+Assets/NatureStarterKit/Animations/camanim.controller
+Assets/NatureStarterKit/Animations/camanim.controller.meta
+Assets/NatureStarterKit/Animations/point1.anim
+Assets/NatureStarterKit/Animations/point1.anim.meta
+Assets/NatureStarterKit/Animations/point2.anim
+Assets/NatureStarterKit/Animations/point2.anim.meta
+Assets/NatureStarterKit/Materials.meta
+Assets/NatureStarterKit/Materials/bark01.mat
+Assets/NatureStarterKit/Materials/bark01.mat.meta
+Assets/NatureStarterKit/Materials/branch01.mat
+Assets/NatureStarterKit/Materials/branch01.mat.meta
+Assets/NatureStarterKit/Materials/cloud1.mat
+Assets/NatureStarterKit/Materials/cloud1.mat.meta
+Assets/NatureStarterKit/Materials/grass.mat
+Assets/NatureStarterKit/Materials/grass.mat.meta
+Assets/NatureStarterKit/Materials/grid.mat
+Assets/NatureStarterKit/Materials/grid.mat.meta
+Assets/NatureStarterKit/Materials/ground.mat
+Assets/NatureStarterKit/Materials/ground.mat.meta
+Assets/NatureStarterKit/Materials/rock01N.mat
+Assets/NatureStarterKit/Materials/rock01N.mat.meta
+Assets/NatureStarterKit/Materials/rock02N.mat
+Assets/NatureStarterKit/Materials/rock02N.mat.meta
+Assets/NatureStarterKit/Materials/rock03N.mat
+Assets/NatureStarterKit/Materials/rock03N.mat.meta
+Assets/NatureStarterKit/Materials/sky.mat
+Assets/NatureStarterKit/Materials/sky.mat.meta
+Assets/NatureStarterKit/Models.meta
+Assets/NatureStarterKit/Models/New Terrain.asset
+Assets/NatureStarterKit/Models/New Terrain.asset.meta
+Assets/NatureStarterKit/Models/Tree.prefab
+Assets/NatureStarterKit/Models/Tree.prefab.meta
+Assets/NatureStarterKit/Models/Tree_Textures.meta
+Assets/NatureStarterKit/Models/Tree_Textures/diffuse.png
+Assets/NatureStarterKit/Models/Tree_Textures/diffuse.png.meta
+Assets/NatureStarterKit/Models/Tree_Textures/normal_specular.png
+Assets/NatureStarterKit/Models/Tree_Textures/normal_specular.png.meta
+Assets/NatureStarterKit/Models/Tree_Textures/shadow.png
+Assets/NatureStarterKit/Models/Tree_Textures/shadow.png.meta
+Assets/NatureStarterKit/Models/Tree_Textures/translucency_gloss.png
+Assets/NatureStarterKit/Models/Tree_Textures/translucency_gloss.png.meta
+Assets/NatureStarterKit/Models/cloud1.FBX
+Assets/NatureStarterKit/Models/cloud1.FBX.meta
+Assets/NatureStarterKit/Models/rock01.fbx
+Assets/NatureStarterKit/Models/rock01.fbx.meta
+Assets/NatureStarterKit/Models/rock02.fbx
+Assets/NatureStarterKit/Models/rock02.fbx.meta
+Assets/NatureStarterKit/Models/rock03.fbx
+Assets/NatureStarterKit/Models/rock03.fbx.meta
+Assets/NatureStarterKit/Models/rock04.fbx
+Assets/NatureStarterKit/Models/rock04.fbx.meta
+Assets/NatureStarterKit/Models/skybox.FBX
+Assets/NatureStarterKit/Models/skybox.FBX.meta
+Assets/NatureStarterKit/Scenes.meta
+Assets/NatureStarterKit/Scenes/Demo.unity
+Assets/NatureStarterKit/Scenes/Demo.unity.meta
+Assets/NatureStarterKit/Scenes/DemoSettings.lighting
+Assets/NatureStarterKit/Scenes/DemoSettings.lighting.meta
+Assets/NatureStarterKit/Standard Assets.meta
+Assets/NatureStarterKit/Standard Assets/Effects.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png.meta
+Assets/NatureStarterKit/Textures.meta
+Assets/NatureStarterKit/Textures/bark01.tga
+Assets/NatureStarterKit/Textures/bark01.tga.meta
+Assets/NatureStarterKit/Textures/bark01N.tga
+Assets/NatureStarterKit/Textures/bark01N.tga.meta
+Assets/NatureStarterKit/Textures/branch01.tga
+Assets/NatureStarterKit/Textures/branch01.tga.meta
+Assets/NatureStarterKit/Textures/cloud01.tga
+Assets/NatureStarterKit/Textures/cloud01.tga.meta
+Assets/NatureStarterKit/Textures/cloud1.tga
+Assets/NatureStarterKit/Textures/cloud1.tga.meta
+Assets/NatureStarterKit/Textures/grass01.tga
+Assets/NatureStarterKit/Textures/grass01.tga.meta
+Assets/NatureStarterKit/Textures/grid.tga
+Assets/NatureStarterKit/Textures/grid.tga.meta
+Assets/NatureStarterKit/Textures/ground01.tga
+Assets/NatureStarterKit/Textures/ground01.tga.meta
+Assets/NatureStarterKit/Textures/ground01N.tga
+Assets/NatureStarterKit/Textures/ground01N.tga.meta
+Assets/NatureStarterKit/Textures/groundgrass01.tga
+Assets/NatureStarterKit/Textures/groundgrass01.tga.meta
+Assets/NatureStarterKit/Textures/groundgrass01N.tga
+Assets/NatureStarterKit/Textures/groundgrass01N.tga.meta
+Assets/NatureStarterKit/Textures/rock01AO.tga
+Assets/NatureStarterKit/Textures/rock01AO.tga.meta
+Assets/NatureStarterKit/Textures/rock01N.tga
+Assets/NatureStarterKit/Textures/rock01N.tga.meta
+Assets/NatureStarterKit/Textures/rock02AO.tga
+Assets/NatureStarterKit/Textures/rock02AO.tga.meta
+Assets/NatureStarterKit/Textures/rock02N.tga
+Assets/NatureStarterKit/Textures/rock02N.tga.meta
+Assets/NatureStarterKit/Textures/rock03AO.tga
+Assets/NatureStarterKit/Textures/rock03AO.tga.meta
+Assets/NatureStarterKit/Textures/rock03N.tga
+Assets/NatureStarterKit/Textures/rock03N.tga.meta
+Assets/NatureStarterKit/Textures/rock03S.tga
+Assets/NatureStarterKit/Textures/rock03S.tga.meta
+Assets/NatureStarterKit/Textures/sky.tga
+Assets/NatureStarterKit/Textures/sky.tga.meta
+Assets/NatureStarterKit/info.txt
+Assets/NatureStarterKit/info.txt.meta
+Assets/New Terrain 1.asset
+Assets/New Terrain 1.asset.meta
+Assets/New Terrain.asset
+Assets/New Terrain.asset.meta
+Assets/SFX.meta
+Assets/SFX/Cough.mp3
+Assets/SFX/Cough.mp3.meta
+Assets/SFX/Ending1.mp3
+Assets/SFX/Ending1.mp3.meta
+Assets/SFX/Ending2.mp3
+Assets/SFX/Ending2.mp3.meta
+Assets/SFX/Ending3.mp3
+Assets/SFX/Ending3.mp3.meta
+Assets/SFX/FireCrackling.mp3
+Assets/SFX/FireCrackling.mp3.meta
+Assets/SFX/GameplayMusic 1.mp3
+Assets/SFX/GameplayMusic 1.mp3.meta
+Assets/SFX/MainMenu.mp3
+Assets/SFX/MainMenu.mp3.meta
+Assets/SFX/OpenandCloseDoor.mp3
+Assets/SFX/OpenandCloseDoor.mp3.meta
+Assets/SFX/Scream.mp3
+Assets/SFX/Scream.mp3.meta
+Assets/SFX/Timer10sec.mp3
+Assets/SFX/Timer10sec.mp3.meta
+Assets/Scenes.meta
+Assets/Scenes/Ending1.unity
+Assets/Scenes/Ending1.unity.meta
+Assets/Scenes/Ending2.unity
+Assets/Scenes/Ending2.unity.meta
+Assets/Scenes/Ending3.unity
+Assets/Scenes/Ending3.unity.meta
+Assets/Scenes/Evaluasi.unity
+Assets/Scenes/Evaluasi.unity.meta
+Assets/Scenes/Level 1A.unity
+Assets/Scenes/Level 1A.unity.meta
+Assets/Scenes/Level 1B.unity
+Assets/Scenes/Level 1B.unity.meta
+Assets/Scenes/Level 1C.unity
+Assets/Scenes/Level 1C.unity.meta
+Assets/Scenes/Level 2A.unity
+Assets/Scenes/Level 2A.unity.meta
+Assets/Scenes/Level 2B.unity
+Assets/Scenes/Level 2B.unity.meta
+Assets/Scenes/Level 2C.unity
+Assets/Scenes/Level 2C.unity.meta
+Assets/Scenes/LoadingScreen.unity
+Assets/Scenes/LoadingScreen.unity.meta
+Assets/Scenes/MainMenu.unity
+Assets/Scenes/MainMenu.unity.meta
+Assets/Scenes/backup.unity
+Assets/Scenes/backup.unity.meta
+Assets/Settings.meta
+Assets/Settings/PostProcessing_Volume Profile.asset
+Assets/Settings/PostProcessing_Volume Profile.asset.meta
+Assets/Sprite.meta
+Assets/StarterAssets.meta
+Assets/StarterAssets/Environment.meta
+Assets/StarterAssets/Environment/Art.meta
+Assets/StarterAssets/Environment/Art/Materials.meta
+Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
+Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat.meta
+Assets/StarterAssets/Environment/Art/Materials/GreyBlue_Mat.mat
+Assets/StarterAssets/Environment/Art/Materials/GreyBlue_Mat.mat.meta
+Assets/StarterAssets/Environment/Art/Materials/GridBlue_01_Mat.mat
+Assets/StarterAssets/Environment/Art/Materials/GridBlue_01_Mat.mat.meta
+Assets/StarterAssets/Environment/Art/Materials/GridOrange_01_Mat.mat
+Assets/StarterAssets/Environment/Art/Materials/GridOrange_01_Mat.mat.meta
+Assets/StarterAssets/Environment/Art/Materials/GridWhite_01_Mat.mat
+Assets/StarterAssets/Environment/Art/Materials/GridWhite_01_Mat.mat.meta
+Assets/StarterAssets/Environment/Art/Models.meta
+Assets/StarterAssets/Environment/Art/Models/Box_350x250x200_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Box_350x250x200_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Box_350x250x300_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Box_350x250x300_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Ground_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Ground_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Ramp_100x100x200_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Ramp_100x100x200_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Ramp_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Ramp_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Stairs_200x100x200_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Stairs_200x100x200_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Stairs_650_400_300_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Stairs_650_400_300_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Structure_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Structure_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Tunnel_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Tunnel_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Models/Wall_Mesh.fbx
+Assets/StarterAssets/Environment/Art/Models/Wall_Mesh.fbx.meta
+Assets/StarterAssets/Environment/Art/Skybox.meta
+Assets/StarterAssets/Environment/Art/Skybox/SkyboxLite.mat
+Assets/StarterAssets/Environment/Art/Skybox/SkyboxLite.mat.meta
+Assets/StarterAssets/Environment/Art/Skybox/SkyboxLiteWarm.mat
+Assets/StarterAssets/Environment/Art/Skybox/SkyboxLiteWarm.mat.meta
+Assets/StarterAssets/Environment/Art/Textures.meta
+Assets/StarterAssets/Environment/Art/Textures/Grid_01_BaseMap.png
+Assets/StarterAssets/Environment/Art/Textures/Grid_01_BaseMap.png.meta
+Assets/StarterAssets/Environment/Art/Textures/Grid_01_Emissive.png
+Assets/StarterAssets/Environment/Art/Textures/Grid_01_Emissive.png.meta
+Assets/StarterAssets/Environment/Art/Textures/Grid_01_Normal.png
+Assets/StarterAssets/Environment/Art/Textures/Grid_01_Normal.png.meta
+Assets/StarterAssets/Environment/Art/Textures/Grid_02_BaseMap.png
+Assets/StarterAssets/Environment/Art/Textures/Grid_02_BaseMap.png.meta
+Assets/StarterAssets/Environment/Prefabs.meta
+Assets/StarterAssets/Environment/Prefabs/Box_100x100x100_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Box_100x100x100_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Box_350x250x200_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Box_350x250x200_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Box_350x250x300_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Box_350x250x300_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Ramp_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Ramp_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Stairs_200x100x200_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Stairs_200x100x200_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Stairs_650_400_300_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Stairs_650_400_300_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Structure_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Structure_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Tunnel_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Tunnel_Prefab.prefab.meta
+Assets/StarterAssets/Environment/Prefabs/Wall_Prefab.prefab
+Assets/StarterAssets/Environment/Prefabs/Wall_Prefab.prefab.meta
+Assets/StarterAssets/Environment/RenderPipelineProfiles.meta
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsHDRPVolumeProfile.asset
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsHDRPVolumeProfile.asset.meta
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPAsset.asset
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPAsset.asset.meta
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPGlobalSettings.asset
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPGlobalSettings.asset.meta
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPRenderer.asset
+Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPRenderer.asset.meta
+Assets/StarterAssets/InputSystem.meta
+Assets/StarterAssets/InputSystem/StarterAssets.inputactions
+Assets/StarterAssets/InputSystem/StarterAssets.inputactions.meta
+Assets/StarterAssets/InputSystem/StarterAssets.inputsettings.asset
+Assets/StarterAssets/InputSystem/StarterAssets.inputsettings.asset.meta
+Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs
+Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs.meta
+Assets/StarterAssets/Mobile.meta
+Assets/StarterAssets/Mobile/Prefabs.meta
+Assets/StarterAssets/Mobile/Prefabs/CanvasInputs.meta
+Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_Joysticks.prefab
+Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_Joysticks.prefab.meta
+Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_TouchZones.prefab
+Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_TouchZones.prefab.meta
+Assets/StarterAssets/Mobile/Prefabs/EventSystem.meta
+Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab
+Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab.meta
+Assets/StarterAssets/Mobile/Prefabs/VirtualInputs.meta
+Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Button.prefab
+Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Button.prefab.meta
+Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Joystick.prefab
+Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Joystick.prefab.meta
+Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_TouchZone.prefab
+Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_TouchZone.prefab.meta
+Assets/StarterAssets/Mobile/Scripts.meta
+Assets/StarterAssets/Mobile/Scripts/CanvasInputs.meta
+Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs
+Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs.meta
+Assets/StarterAssets/Mobile/Scripts/Utilities.meta
+Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs
+Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs.meta
+Assets/StarterAssets/Mobile/Scripts/VirtualInputs.meta
+Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs
+Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs.meta
+Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs
+Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs.meta
+Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs
+Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs.meta
+Assets/StarterAssets/Mobile/UI.meta
+Assets/StarterAssets/Mobile/UI/UI_Circle_Bevel_Base.png
+Assets/StarterAssets/Mobile/UI/UI_Circle_Bevel_Base.png.meta
+Assets/StarterAssets/Mobile/UI/UI_Circle_Faded.png
+Assets/StarterAssets/Mobile/UI/UI_Circle_Faded.png.meta
+Assets/StarterAssets/Mobile/UI/UI_Icon_Jump.png
+Assets/StarterAssets/Mobile/UI/UI_Icon_Jump.png.meta
+Assets/StarterAssets/Mobile/UI/UI_Icon_Look.png
+Assets/StarterAssets/Mobile/UI/UI_Icon_Look.png.meta
+Assets/StarterAssets/Mobile/UI/UI_Icon_Move.png
+Assets/StarterAssets/Mobile/UI/UI_Icon_Move.png.meta
+Assets/StarterAssets/Mobile/UI/UI_Icon_Sprint.png
+Assets/StarterAssets/Mobile/UI/UI_Icon_Sprint.png.meta
+Assets/StarterAssets/Readme.asset
+Assets/StarterAssets/Readme.asset.meta
+Assets/StarterAssets/StarterAssets_Documentation_v1.1.pdf
+Assets/StarterAssets/StarterAssets_Documentation_v1.1.pdf.meta
+Assets/StarterAssets/ThirdPersonController.meta
+Assets/StarterAssets/ThirdPersonController/Character.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Jump--InAir.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Jump--InAir.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Jump--Jump.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Jump--Jump.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N_Land.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N_Land.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_S.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_S.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N_Land.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N_Land.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Stand--Idle.anim.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Animations/Stand--Idle.anim.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller
+Assets/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller.meta
+Assets/StarterAssets/ThirdPersonController/Character/Materials.meta
+Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Arms.mat
+Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Arms.mat.meta
+Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Body.mat
+Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Body.mat.meta
+Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Legs.mat
+Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Legs.mat.meta
+Assets/StarterAssets/ThirdPersonController/Character/Models.meta
+Assets/StarterAssets/ThirdPersonController/Character/Models/Armature.fbx
+Assets/StarterAssets/ThirdPersonController/Character/Models/Armature.fbx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_01.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_01.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_02.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_02.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_03.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_03.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_04.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_04.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_05.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_05.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_06.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_06.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_07.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_07.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_08.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_08.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_09.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_09.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_10.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Footstep_10.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Land.wav
+Assets/StarterAssets/ThirdPersonController/Character/Sfx/Player_Land.wav.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_AlbedoTransparency.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_AlbedoTransparency.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_MetallicSmoothness.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_MetallicSmoothness.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_Normal.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_Normal.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_RGB.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_RGB.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_AlbedoTransparency.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_AlbedoTransparency.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_MetallicSmoothness.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_MetallicSmoothness.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_Normal.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_Normal.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_RGB.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_RGB.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_AlbedoTransparency.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_AlbedoTransparency.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_MetallicSmoothness.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_MetallicSmoothness.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_Normal.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_Normal.tif.meta
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_RGB.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_RGB.tif.meta
+Assets/StarterAssets/ThirdPersonController/Prefabs.meta
+Assets/StarterAssets/ThirdPersonController/Prefabs/MainCamera.prefab
+Assets/StarterAssets/ThirdPersonController/Prefabs/MainCamera.prefab.meta
+Assets/StarterAssets/ThirdPersonController/Prefabs/NestedParentArmature_Unpack.prefab
+Assets/StarterAssets/ThirdPersonController/Prefabs/NestedParentArmature_Unpack.prefab.meta
+Assets/StarterAssets/ThirdPersonController/Prefabs/NestedParentCapsule_Unpack.prefab
+Assets/StarterAssets/ThirdPersonController/Prefabs/NestedParentCapsule_Unpack.prefab.meta
+Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerArmature.prefab
+Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerArmature.prefab.meta
+Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerCapsule.prefab
+Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerCapsule.prefab.meta
+Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerFollowCamera.prefab
+Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerFollowCamera.prefab.meta
+Assets/StarterAssets/ThirdPersonController/Scenes.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/LightingData.asset
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/LightingData.asset.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-0.exr
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-0.exr.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-1.exr
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-1.exr.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-2.exr
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-2.exr.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/PlaygroundSettings.lighting
+Assets/StarterAssets/ThirdPersonController/Scenes/PlaygroundSettings.lighting.meta
+Assets/StarterAssets/ThirdPersonController/Scripts.meta
+Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs
+Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs.meta
+Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs
+Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs.meta
+Assets/StarterAssets/TutorialInfo.meta
+Assets/StarterAssets/TutorialInfo/Icons.meta
+Assets/StarterAssets/TutorialInfo/Icons/ReadMeImg.PNG
+Assets/StarterAssets/TutorialInfo/Icons/ReadMeImg.PNG.meta
+Assets/StarterAssets/TutorialInfo/Scripts.meta
+Assets/StarterAssets/TutorialInfo/Scripts/Editor.meta
+Assets/StarterAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+Assets/StarterAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs
+Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs.meta
+Assets/StarterAssets/license.txt
+Assets/StarterAssets/license.txt.meta
+Assets/TerrainData_87801bd1-b3c7-44a9-bfd6-ab569392a7a6.asset
+Assets/TerrainData_87801bd1-b3c7-44a9-bfd6-ab569392a7a6.asset.meta
+Assets/TextMesh Pro.meta
+Assets/TextMesh Pro/Documentation.meta
+Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+Assets/TextMesh Pro/Examples & Extras.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Materials.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta
+Assets/TextMesh Pro/Examples & Extras/Resources.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Sprites.meta
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png.meta
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd.meta
+Assets/TextMesh Pro/Fonts.meta
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Assets/TextMesh Pro/Resources.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COUR SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/COUR SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COUR.TTF
+Assets/TextMesh Pro/Resources/Fonts & Materials/COUR.TTF.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBD SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBD SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBD.TTF
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBD.TTF.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBI SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBI SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBI.TTF
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURBI.TTF.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURI SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURI SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURI.TTF
+Assets/TextMesh Pro/Resources/Fonts & Materials/COURI.TTF.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LilitaOne-Regular SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LilitaOne-Regular SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LilitaOne-Regular.ttf
+Assets/TextMesh Pro/Resources/Fonts & Materials/LilitaOne-Regular.ttf.meta
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Assets/TextMesh Pro/Resources/Style Sheets.meta
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Assets/TextMesh Pro/Resources/TMP Settings.asset
+Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Assets/TextMesh Pro/Shaders.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+Assets/TextMesh Pro/Shaders/TMPro.cginc
+Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+Assets/TextMesh Pro/Sprites.meta
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.json
+Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.png
+Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+Assets/_TerrainAutoUpgrade.meta
+Assets/_TerrainAutoUpgrade/layer_Groundplants 1_DGroundplants 1_N2023054508611406.terrainlayer
+Assets/_TerrainAutoUpgrade/layer_Groundplants 1_DGroundplants 1_N2023054508611406.terrainlayer.meta
+Assets/_TerrainAutoUpgrade/layer_RockSharp 1_DRockSharp 1_N793646612c42751.terrainlayer
+Assets/_TerrainAutoUpgrade/layer_RockSharp 1_DRockSharp 1_N793646612c42751.terrainlayer.meta
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb2e386cdaf7e7ee2.terrainlayer
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb2e386cdaf7e7ee2.terrainlayer.meta
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb3407d0e55802f81.terrainlayer
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb3407d0e55802f81.terrainlayer.meta
+Assets/script.meta
+Assets/script/AudioManager.cs
+Assets/script/AudioManager.cs.meta
+Assets/script/CrouchButton.cs
+Assets/script/CrouchButton.cs.meta
+Assets/script/EndingManager.cs
+Assets/script/EndingManager.cs.meta
+Assets/script/EvaluasiManager.cs
+Assets/script/EvaluasiManager.cs.meta
+Assets/script/ExitPoint.cs
+Assets/script/ExitPoint.cs.meta
+Assets/script/ExitTrigger.cs
+Assets/script/ExitTrigger.cs.meta
+Assets/script/FireDamage.cs
+Assets/script/FireDamage.cs.meta
+Assets/script/FireLightFlicker.cs
+Assets/script/FireLightFlicker.cs.meta
+Assets/script/FireScreenEffect.cs
+Assets/script/FireScreenEffect.cs.meta
+Assets/script/FloorTrigger.cs
+Assets/script/FloorTrigger.cs.meta
+Assets/script/FloorVisibilityManager.cs
+Assets/script/FloorVisibilityManager.cs.meta
+Assets/script/FollowPlayerCamera2.cs
+Assets/script/FollowPlayerCamera2.cs.meta
+Assets/script/GameManager.cs
+Assets/script/GameManager.cs.meta
+Assets/script/GameResult.cs
+Assets/script/GameResult.cs.meta
+Assets/script/GarageDoor.cs
+Assets/script/GarageDoor.cs.meta
+Assets/script/GarageDoorButton.cs
+Assets/script/GarageDoorButton.cs.meta
+Assets/script/GarageDoorButtonUI.cs
+Assets/script/GarageDoorButtonUI.cs.meta
+Assets/script/HealthBarUI.cs
+Assets/script/HealthBarUI.cs.meta
+Assets/script/HealthSystem.cs
+Assets/script/HealthSystem.cs.meta
+Assets/script/HowToPlayNavigator.cs
+Assets/script/HowToPlayNavigator.cs.meta
+Assets/script/LoadingScreenManager.cs
+Assets/script/LoadingScreenManager.cs.meta
+Assets/script/MainMenu.cs
+Assets/script/MainMenu.cs.meta
+Assets/script/PauseButton.cs
+Assets/script/PauseButton.cs.meta
+Assets/script/PauseManager.cs
+Assets/script/PauseManager.cs.meta
+Assets/script/Playerstate.cs
+Assets/script/Playerstate.cs.meta
+Assets/script/PushDoor.cs
+Assets/script/PushDoor.cs.meta
+Assets/script/ScenarioRandomizer.cs
+Assets/script/ScenarioRandomizer.cs.meta
+Assets/script/SmokeDamage.cs
+Assets/script/SmokeDamage.cs.meta
+Assets/script/SpeechBubble.cs
+Assets/script/SpeechBubble.cs.meta
+Assets/script/TimerUI.cs
+Assets/script/TimerUI.cs.meta
+Assets/script/VolumeControl.cs
+Assets/script/VolumeControl.cs.meta
+Assets/script/WindowInteract.cs
+Assets/script/WindowInteract.cs.meta
+Assets/textures.meta
+Assets/textures/360_F_176044944_mUQlC0h0zTeeXutIgBMNSFPtbMPwsc5V.jpg
+Assets/textures/360_F_176044944_mUQlC0h0zTeeXutIgBMNSFPtbMPwsc5V.jpg.meta
+Assets/textures/New Material 1.mat
+Assets/textures/New Material 1.mat.meta
+Assets/textures/New Material 2.mat
+Assets/textures/New Material 2.mat.meta
+Assets/textures/New Material 3.mat
+Assets/textures/New Material 3.mat.meta
+Assets/textures/New Material 4.mat
+Assets/textures/New Material 4.mat.meta
+Assets/textures/New Material.mat
+Assets/textures/New Material.mat.meta
+Assets/textures/Pintu Garasi.fbx
+Assets/textures/Pintu Garasi.fbx.meta
+Assets/textures/fire-burning-realistic-red-flame-transparent-png.png
+Assets/textures/fire-burning-realistic-red-flame-transparent-png.png.meta
+Assets/textures/fire-burning-realistic-red-flame-transparent-png.webp
+Assets/textures/fire-burning-realistic-red-flame-transparent-png.webp.meta
+Assets/textures/grass-73y0c0.jpg
+Assets/textures/grass-73y0c0.jpg.meta
+Assets/textures/kayu.001.png
+Assets/textures/kayu.001.png.meta
+Assets/textures/kayu.png
+Assets/textures/kayu.png.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/TimelineSettings.asset
+ProjectSettings/URPProjectSettings.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/XRSettings.asset
+hotspot_BurstDebugInformation_DoNotShip/tempburstlibs/armeabi-v7a/lib_burst_generated.txt
